@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "teamName": "Kennedy Green",
+  "primaryColor": "#006633",
+  "accentColor": "#FEB835",
+  "spikeUrl": "https://spike.legoeducation.com/",
+  "spikeButtonLabel": "Open SPIKE",
+  "programsFolder": "programs/",
+  "allowedExtensions": [
+    ".llsp3"
+  ],
+  "maxFileSizeMb": 10,
+  "localFolderName": "FLL Robot Code",
+  "subTeams": []
+}
