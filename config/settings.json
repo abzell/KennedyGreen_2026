@@ -18,6 +18,13 @@
       "color": "#8000FF",
       "fileName": "Start Here - Mission Template.llsp3",
       "hidden": false
+    },
+    {
+      "id": "mission-6-ants",
+      "name": "Mission 6 - Ants",
+      "color": "#006633",
+      "fileName": "Mission 6 - Ants.llsp3",
+      "hidden": false
     }
   ]
 }
