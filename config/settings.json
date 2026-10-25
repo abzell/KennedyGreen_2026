@@ -11,5 +11,13 @@
   ],
   "maxFileSizeMb": 10,
   "localFolderName": "FLL Robot Code",
-  "subTeams": []
+  "subTeams": [
+    {
+      "id": "start-here-mission-template",
+      "name": "Start Here - Mission Template",
+      "color": "#8000FF",
+      "fileName": "Start Here - Mission Template.llsp3",
+      "hidden": false
+    }
+  ]
 }
