@@ -11,5 +11,13 @@
   ],
   "maxFileSizeMb": 10,
   "localFolderName": "FLL Robot Code",
-  "subTeams": []
+  "subTeams": [
+    {
+      "id": "kennedy-green-team",
+      "name": "Kennedy Green Team",
+      "color": "#006633",
+      "fileName": "Kennedy Green Team.llsp3",
+      "hidden": false
+    }
+  ]
 }
