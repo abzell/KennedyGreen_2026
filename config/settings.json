@@ -14,10 +14,10 @@
   "subTeams": [
     {
       "id": "kennedy-green-team",
-      "name": "Kennedy Green Team",
+      "name": "Mission Template",
       "color": "#006633",
       "fileName": "Kennedy Green Team.llsp3",
-      "hidden": true
+      "hidden": false
     }
   ]
 }
