@@ -25,6 +25,13 @@
       "color": "#006633",
       "fileName": "Mission 6 - Ants.llsp3",
       "hidden": false
+    },
+    {
+      "id": "mission-1-drone",
+      "name": "Mission 1 - Drone",
+      "color": "#006633",
+      "fileName": "Mission 1 - Drone.llsp3",
+      "hidden": false
     }
   ]
 }
