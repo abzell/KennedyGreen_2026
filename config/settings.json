@@ -32,6 +32,13 @@
       "color": "#006633",
       "fileName": "Mission 1 - Drone.llsp3",
       "hidden": false
+    },
+    {
+      "id": "mission-2-exploding-seeds",
+      "name": "Mission 2 - Exploding Seeds",
+      "color": "#006633",
+      "fileName": "Mission 2 - Exploding Seeds.llsp3",
+      "hidden": false
     }
   ]
 }
