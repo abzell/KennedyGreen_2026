@@ -39,6 +39,13 @@
       "color": "#006633",
       "fileName": "Mission 2 - Exploding Seed.llsp3",
       "hidden": false
+    },
+    {
+      "id": "mission-3-flip-the-rock",
+      "name": "Mission 3 - Flip the Rock",
+      "color": "#006633",
+      "fileName": "Mission 3 - Flip the Rock.llsp3",
+      "hidden": false
     }
   ]
 }
