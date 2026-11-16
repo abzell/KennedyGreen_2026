@@ -46,6 +46,13 @@
       "color": "#006633",
       "fileName": "Mission 3 - Flip the Rock.llsp3",
       "hidden": false
+    },
+    {
+      "id": "mission-0-left-home-to-right",
+      "name": "Mission 0 - Left Home to Right",
+      "color": "#006633",
+      "fileName": "Mission 0 - Left Home to Right.llsp3",
+      "hidden": false
     }
   ]
 }
