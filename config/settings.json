@@ -53,6 +53,13 @@
       "color": "#006633",
       "fileName": "Mission 0 - Left Home to Right.llsp3",
       "hidden": false
+    },
+    {
+      "id": "mission-7-fungus",
+      "name": "Mission 7 - Fungus",
+      "color": "#006633",
+      "fileName": "Mission 7 - Fungus.llsp3",
+      "hidden": false
     }
   ]
 }
